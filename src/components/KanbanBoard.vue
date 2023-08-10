@@ -41,7 +41,7 @@
       </div>
 
       <button
-        class="border-2 p-4 bg-mainBgColor flex gap-2 border-columnBgColor ring-rose-500 hover:ring-2 h-[60px] w-[350px] min-w-[350px] cursor-pointer rounded-lg"
+        class="flex h-[60px] w-[350px] min-w-[350px] cursor-pointer gap-2 rounded-lg border-2 border-columnBgColor bg-mainBgColor p-4 ring-rose-500 hover:ring-2"
         type="button"
         @click="createNewColumn">
         <PlusCircleOutline />
