@@ -1,0 +1,6 @@
+node_modules
+tailwind.config.cjs
+postcss.config.cjs
+vitest.config.ts
+vite.config.ts
+env.d.ts
